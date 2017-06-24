@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funda.ScreenShare.Server", "Funda.ScreenShare.Server\Funda.ScreenShare.Server.csproj", "{B433D498-A013-443F-B898-3F52FBB9D5BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funda.ScreenShare.Client", "Funda.ScreenShare.Client\Funda.ScreenShare.Client.csproj", "{D4460AF1-839B-42A0-8AE9-A89AD343883B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B433D498-A013-443F-B898-3F52FBB9D5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B433D498-A013-443F-B898-3F52FBB9D5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B433D498-A013-443F-B898-3F52FBB9D5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B433D498-A013-443F-B898-3F52FBB9D5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4460AF1-839B-42A0-8AE9-A89AD343883B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4460AF1-839B-42A0-8AE9-A89AD343883B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4460AF1-839B-42A0-8AE9-A89AD343883B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4460AF1-839B-42A0-8AE9-A89AD343883B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
