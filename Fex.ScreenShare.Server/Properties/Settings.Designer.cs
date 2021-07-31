@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Funda.ScreenShare.Server.Properties {
+namespace Fex.ScreenShare.Server.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

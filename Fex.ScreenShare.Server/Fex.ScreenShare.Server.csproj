@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{B433D498-A013-443F-B898-3F52FBB9D5BA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Funda.ScreenShare.Server</RootNamespace>
-    <AssemblyName>Funda.ScreenShare.Server</AssemblyName>
+    <RootNamespace>Fex.ScreenShare.Server</RootNamespace>
+    <AssemblyName>Fex.ScreenShare.Server</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -52,9 +52,8 @@
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
-    <Reference Include="WpfAnimatedGif, Version=1.4.14.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Documents\GitHub\WpfAnimatedGif\WpfAnimatedGif\bin\Debug\WpfAnimatedGif.dll</HintPath>
+    <Reference Include="WpfAnimatedGif, Version=2.0.0.0, Culture=neutral, PublicKeyToken=9e7cd3b544a090dc, processorArchitecture=MSIL">
+      <HintPath>..\packages\WpfAnimatedGif.2.0.0\lib\net40\WpfAnimatedGif.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -24,7 +24,7 @@ Snip() {
 }
 
 Post() {
-    Run, Funda.ScreenShare.Client.exe
+    Run, Fex.ScreenShare.Client.exe
 }
 
 SnipAndPost(){

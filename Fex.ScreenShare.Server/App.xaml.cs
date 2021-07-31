@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Funda.ScreenShare.Server
+namespace Fex.ScreenShare.Server
 {
     /// <summary>
     /// Interaction logic for App.xaml

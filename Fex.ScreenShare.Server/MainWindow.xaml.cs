@@ -10,7 +10,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Threading;
 using WpfAnimatedGif;
 
-namespace Funda.ScreenShare.Server
+namespace Fex.ScreenShare.Server
 {
     public partial class MainWindow : Window
     {
